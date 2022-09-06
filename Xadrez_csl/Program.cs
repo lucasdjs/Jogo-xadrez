@@ -1,8 +1,5 @@
-﻿using Tabuleiro;
+﻿using Tabuleiros;
 
-Posicao p;
+Tabuleiro tab = new Tabuleiro(8,5);
 
-p = new Posicao(3, 4);
-
-Console.WriteLine(p);
 Console.ReadLine();
