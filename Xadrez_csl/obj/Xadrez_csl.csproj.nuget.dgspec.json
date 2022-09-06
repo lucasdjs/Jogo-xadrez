@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas_7p11azf\\OneDrive - NDD.Tech\\Área de Trabalho\\Curso C#\\csharp\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj": {}
+    "C:\\Users\\lucas_7p11azf\\OneDrive\\Área de Trabalho\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas_7p11azf\\OneDrive - NDD.Tech\\Área de Trabalho\\Curso C#\\csharp\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj": {
+    "C:\\Users\\lucas_7p11azf\\OneDrive\\Área de Trabalho\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas_7p11azf\\OneDrive - NDD.Tech\\Área de Trabalho\\Curso C#\\csharp\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj",
+        "projectUniqueName": "C:\\Users\\lucas_7p11azf\\OneDrive\\Área de Trabalho\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj",
         "projectName": "Xadrez_csl",
-        "projectPath": "C:\\Users\\lucas_7p11azf\\OneDrive - NDD.Tech\\Área de Trabalho\\Curso C#\\csharp\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj",
+        "projectPath": "C:\\Users\\lucas_7p11azf\\OneDrive\\Área de Trabalho\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\Xadrez_csl.csproj",
         "packagesPath": "C:\\Users\\lucas_7p11azf\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas_7p11azf\\OneDrive - NDD.Tech\\Área de Trabalho\\Curso C#\\csharp\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\obj\\",
+        "outputPath": "C:\\Users\\lucas_7p11azf\\OneDrive\\Área de Trabalho\\13 - Sistema jogo de xadrez\\Xadrez_Console_Lucas\\Xadrez_csl\\Xadrez_csl\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\bin\Debug\net6.0\Xadrez_csl.exe
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\bin\Debug\net6.0\Xadrez_csl.deps.json
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\bin\Debug\net6.0\Xadrez_csl.runtimeconfig.json
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\bin\Debug\net6.0\Xadrez_csl.dll
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\bin\Debug\net6.0\Xadrez_csl.pdb
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.csproj.AssemblyReference.cache
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.AssemblyInfoInputs.cache
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.AssemblyInfo.cs
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.csproj.CoreCompileInputs.cache
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.dll
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\refint\Xadrez_csl.dll
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.pdb
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\Xadrez_csl.genruntimeconfig.cache
+C:\Users\lucas_7p11azf\OneDrive\Área de Trabalho\13 - Sistema jogo de xadrez\Xadrez_Console_Lucas\Xadrez_csl\Xadrez_csl\obj\Debug\net6.0\ref\Xadrez_csl.dll
