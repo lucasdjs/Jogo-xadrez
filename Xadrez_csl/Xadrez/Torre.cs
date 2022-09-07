@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tabuleiros;
 
-namespace Xadrez_csl.Xadrez
+namespace Xadrez
 {
     internal class Torre : Peca
     {
