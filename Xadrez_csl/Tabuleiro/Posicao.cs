@@ -20,5 +20,10 @@ namespace Tabuleiros
         {
             return Linha + ", " + Coluna;
         }
+        public void DefinirValores(int linha, int coluna) {
+            Linha = linha;
+            Coluna = coluna;
+        
+        }
     }
 }
